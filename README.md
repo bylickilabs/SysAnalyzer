@@ -1,7 +1,7 @@
-# SysAnalyzer.Gui – Systemanalyse-Tool
+|[![VirusTotal Scan](https://img.shields.io/badge/VirusTotal-Scan-blue?logo=virustotal)](https://www.virustotal.com/gui/url/6bac4a1d481dd693981dae086db82e5cde8b727f5c6cf462167b4df9ba19ca4f?nocache=1)|SysAnalyzer.Gui – Systemanalyse-Tool|
+|---|---|
 
 ## Beschreibung
-
 **SysAnalyzer.Gui** ist ein Windows-basierendes Systemanalyse-Tool mit einer modernen WPF-Benutzeroberfläche. Es bietet eine übersichtliche Darstellung zentraler Systeminformationen wie Computername, Betriebssystem, CPU-Details sowie eine Liste der Top 10 laufenden Prozesse mit RAM-Auslastung. Das Tool ist speziell für Administratoren und Entwickler konzipiert, die eine schnelle und visuelle Analyse ihrer Systeme benötigen.
 
 ---
