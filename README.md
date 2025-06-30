@@ -52,3 +52,10 @@ dotnet restore
 ```powershell
 dotnet restore
 ```
+
+5. Projekt bauen und starten
+Starten Sie die Anwendung mit:
+
+```yarn
+dotnet run
+```
