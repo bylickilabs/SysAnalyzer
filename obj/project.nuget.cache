@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/+Mr5qLtcw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bylic\\Desktop\\SysAnalyzer\\SysAnalyzer.Gui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bylic\\.nuget\\packages\\system.codedom\\9.0.6\\system.codedom.9.0.6.nupkg.sha512",
+    "C:\\Users\\bylic\\.nuget\\packages\\system.management\\9.0.6\\system.management.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
